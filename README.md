@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ... HTML/CSS/JS...
 - 💞️ I’m looking to collaborate on ... FREELANCER SITES 
 - 📫 How to reach me ... FOLLOW MY INSTAGRAM @nyx_nst
+- im learning german lang
+- i know english
 
 <!---
 marianiasati/marianiasati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
