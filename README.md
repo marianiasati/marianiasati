@@ -5,6 +5,7 @@
 - 📫 How to reach me ... FOLLOW MY INSTAGRAM @nyx_nst
 - im learning german lang
 - i know english
+- cs50x harvard certificate
 
 <!---
 marianiasati/marianiasati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
